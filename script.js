@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 1,
             title: "O que é a Íris e como ela controla a luz?",
             category: "Anatomia",
-            image: "img/img 1.png",
+            image: "https://www.facebook.com/HospitalHOlhos/photos/ei-voc%C3%AA-conhece-a-%C3%ADris-isso-mesmo-estamos-falando-da-%C3%ADris-do-olho-ela-%C3%A9-a-parte-/1689104214526574/",
             excerpt: "A íris é a parte colorida do olho responsável por regular a quantidade de luz que entra através da pupila.",
             readTime: "5 min",
             date: "Há 2 dias"
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 2,
             title: "Reflexo Pupilar à Luz: O mecanismo automático do olho",
             category: "Fisiologia",
-            image: "img/img 2.png",
+            image: "https://ssfurosinteligentes.com.br/reflexos-pupilares-o-que-sao-e-por-que-sao-importantes/",
             excerpt: "Como o cérebro detecta luz forte e contrai a pupila em milésimos de segundo para proteger a retina.",
             readTime: "8 min",
             date: "Há 5 dias"
